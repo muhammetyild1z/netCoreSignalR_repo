@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "signalR_ex", "signalR_ex\signalR_ex.csproj", "{090B2DFC-C900-4782-BADD-2F1CE7869CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signalR-ConsoleApp", "signalR-ConsoleApp\signalR-ConsoleApp.csproj", "{DB1107B3-838C-411A-A635-811AE6358716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090B2DFC-C900-4782-BADD-2F1CE7869CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090B2DFC-C900-4782-BADD-2F1CE7869CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090B2DFC-C900-4782-BADD-2F1CE7869CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090B2DFC-C900-4782-BADD-2F1CE7869CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1107B3-838C-411A-A635-811AE6358716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1107B3-838C-411A-A635-811AE6358716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1107B3-838C-411A-A635-811AE6358716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1107B3-838C-411A-A635-811AE6358716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DD3045-7E4A-492B-94E7-B22EB5888E99}
+	EndGlobalSection
+EndGlobal
